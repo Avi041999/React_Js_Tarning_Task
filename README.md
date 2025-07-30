@@ -1,3 +1,11 @@
+📘 About This Repository
+Welcome to this hands-on learning hub!
+This repository is a dynamic space where I explore, practice, and experiment with a variety of web development concepts, tools, and technologies.
+
+Whether it’s tackling tasks, building components, or trying out new frameworks — every commit here reflects a step forward in my journey of becoming a better developer.
+
+✨ A sandbox of curiosity, a lab of learning, and a launchpad for innovation.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
